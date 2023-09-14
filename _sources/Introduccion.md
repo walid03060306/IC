@@ -2,7 +2,7 @@
 
 Dentro de la ingenieria civil, podemos encontrar infinidad de temas dentro de cada rama:
 
-- Geotecnia
+- Geotecnia 1
 - Hidraulica
 - Estructuras
 - Transportes
