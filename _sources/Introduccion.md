@@ -21,7 +21,7 @@ Una forma de clasificarlas es segun la manera en la cual se aborda un problema. 
 
 ```{figure} 1.svg
 :alt: 1
-:width: 400px
+:width: 800px
 :align: center
 :name: 1
 ANN (Artificial Neural Network)

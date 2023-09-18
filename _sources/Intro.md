@@ -14,6 +14,8 @@ Lo siguiente extraido del libro de James Goulet, "Machine Learning in Civil Engi
 Machine Learning in Civil Engineering
 ```
 
+Al final del presente trabajo se presentara pequeñas aplicaciones del tema en la ingenieria geotecnica, las cuales se han desarrollado en el lenguaje de programacion Python.
+
 Esto solo es una introduccion de lo que se revisara en el presente trabajo, el cual se desarrollara en el siguiente orden:
 
 ```{tableofcontents}
